@@ -1,8 +1,5 @@
 #include <stdio.h>
-
-void user_g(){
-    printf("This function is under development.");
-}
+#include "graph_generation.h"
 
 void random_g(){
     printf("This function is under development.");
