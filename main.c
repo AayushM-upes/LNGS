@@ -2,7 +2,7 @@
 #include "graph_generation.h"
 
 void random_g(){
-    printf("This function is under development.");
+    printf("This function is under development. Please use user generation");
 }
 
 //Driver Function
